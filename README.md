@@ -6,7 +6,7 @@ Bem-vindo(a) ao repositório da minha página pessoal! Este site foi desenvolvid
 
 ## 🌐 Acesse Online
 
-📍 [barbarazamperete.github.io](https://barbarazemperete.github.io)
+📍 [barbarazamperete.github.io](https://barbarazamperete.github.io)
 
 ---
 
